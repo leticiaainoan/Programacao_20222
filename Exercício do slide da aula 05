@@ -1,0 +1,5 @@
+** 1. Qual a Função de listas em Phyton ? **
+R.: É uma estrutura de dados utilizada para armazenar elementos de forma sequencial e ordenada.
+
+** Uma lista so recebe números inteiros **
+R.: Não, Listas são heterogêneas, o que significa que elas podem ter valores de tipos diferentes.
